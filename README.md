@@ -2,15 +2,7 @@
 
 ###
 
-<p align="left">My name is Thanush... and I'm an Engineering Student, from India....</p>
-
-###
-
-<h2 align="center">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Data Science<br>🎯 Goals: Chill on Weekends<br>🎲 Fun fact: Cats sleep an average of 15 hrs a Day.</p>
+<p align="left">My name is Thanush... and I'm an Aspiring computer science engineer with a strong interest in data analysis and backend development, driven to contribute to innovative solutions in emerging technologies.</p>
 
 ###
 
@@ -68,9 +60,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/b-j-thanush/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/thanushclever24" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
 
